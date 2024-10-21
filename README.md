@@ -1,6 +1,6 @@
 # locatemyip
 
-### A package to check your network location.
+### command to check your network location.
 
 `sudo npm install -g locatemyip`
 
@@ -8,4 +8,6 @@
 
 `locatemyip`
 
-Output example: `Istanbul`
+- Output example:
+
+`Istanbul`
