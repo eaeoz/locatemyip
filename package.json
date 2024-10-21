@@ -13,7 +13,7 @@
   "keywords": ["network", "location"], 
   "author": "Sedat ERGOZ",  
   "license": "ISC",
-  "description": "A package for managing network locations.", 
+  "description": "a command to check your network location", 
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eaeoz/locatemyip.git"
