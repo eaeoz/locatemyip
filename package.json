@@ -1,0 +1,21 @@
+{
+  "name": "locatemyip",
+  "version": "1.0.3",
+  "main": "index.js",
+  "bin": {
+    "locatemyip": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib",
+    "start": "node index.js"  
+  },
+  "keywords": ["network", "location"], 
+  "author": "Sedat ERGOZ",  
+  "license": "ISC",
+  "description": "A package for managing network locations.", 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eaeoz/locatemyip.git"
+  }
+}
