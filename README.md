@@ -1,6 +1,6 @@
 # locatemyip
 
-### command to check your network location.
+### command to check your network global location.
 
 `sudo npm install -g locatemyip`
 
