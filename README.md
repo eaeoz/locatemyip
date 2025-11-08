@@ -1,13 +1,22 @@
 # locatemyip
 
-### command to check your network global location.
+### Command to Check Your Network Global Location.
+
+#### Without installation run: 
+
+`npx locatemyip`
+
+***
+
+#### Installation:
 
 `sudo npm install -g locatemyip`
 
-- Simply run:
+* Simply run:
 
 `locatemyip`
 
-- Output example:
+* Output example:
 
 `Istanbul`
+

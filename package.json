@@ -1,16 +1,14 @@
 {
   "name": "locatemyip",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "main": "index.js",
   "bin": {
     "locatemyip": "index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "babel src -d lib",
     "start": "node index.js"  
   },
-  "keywords": ["network", "location"], 
+  "keywords": ["network", "location", "global"], 
   "author": "Sedat ERGOZ",  
   "license": "ISC",
   "description": "a command to check your network location", 
