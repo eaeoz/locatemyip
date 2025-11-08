@@ -2,6 +2,8 @@
 
 ### Command to Check Your Network Global Location.
 
+***
+
 #### Without installation run: 
 
 `npx locatemyip`
